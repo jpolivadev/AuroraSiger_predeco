@@ -59,19 +59,27 @@ No terminal, dentro da pasta do projeto, execute:
 ### 3. Ativar o ambiente virtual
 
 Para ativar, execute:
+
 **.\.venv\Scripts\Activate.ps1**
+
 Se a ativação funcionar, o terminal deverá mostrar algo como:
+
 **(.venv) PS C:\caminho\do\projeto>**
+
 
 ### 4. Instalar as dependências
 
 Com o ambiente virtual ativado, execute:
+
 **python -m pip install pandas scikit-learn jupyter**
+
 
 ### 5-1. Executar o script Python
 
 Para rodar a versão em script, utilize:
+
 **python aurorasiger_predeco.py**
+  
 
 ### 5-2. Executar o notebook Python
 
